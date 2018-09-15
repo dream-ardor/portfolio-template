@@ -25,7 +25,7 @@ theme_settings:
   dribbble: "danbarrick"
   facebook: "danbarrick"
   flickr:
-  github: "https://github.com/dream-ardor"
+  github: # https://github.com/dream-ardor
   google_plus: danbarrick
   instagram: "danbarrick"
   linkedin:  # https://www.linkedin.com/danbarrick/
