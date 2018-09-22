@@ -21,23 +21,13 @@ theme_settings:
   rss: false
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
-  bitbucket:
   dribbble: "danbarrick"
   facebook: "danbarrick"
-  flickr:
   github: /dream-ardor
   google_plus: danbarrick
   instagram: "danbarrick"
-  linkedin: https://www.linkedin.com/danbarrick/
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
-  twitter: ""
-  wordpress:
-  youtube:
+  linkedin: https://linkedin.com/danbarrick/
+  wordpress: https://www.dreamardor.com/
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
